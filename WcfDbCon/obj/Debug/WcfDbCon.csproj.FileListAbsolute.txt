@@ -1,0 +1,7 @@
+C:\Users\Yuri\source\repos\WcfDbCon\bin\WcfDbCon.dll.config
+C:\Users\Yuri\source\repos\WcfDbCon\bin\WcfDbCon.dll
+C:\Users\Yuri\source\repos\WcfDbCon\bin\WcfDbCon.pdb
+C:\Users\Yuri\source\repos\WcfDbCon\obj\Debug\WcfDbCon.csprojAssemblyReference.cache
+C:\Users\Yuri\source\repos\WcfDbCon\obj\Debug\WcfDbCon.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\source\repos\WcfDbCon\obj\Debug\WcfDbCon.dll
+C:\Users\Yuri\source\repos\WcfDbCon\obj\Debug\WcfDbCon.pdb
